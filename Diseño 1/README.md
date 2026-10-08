@@ -10,7 +10,7 @@
 - Switch / IR sensor + Control IR
 
 ## Conecciones
-[Link Esquematico]
+[Link Esquematico](https://github.com/Mini-Battle-Bots-ITBA/Battle-Bots-ITBA/blob/main/Dise%C3%B1o%201/Esquematico%20Nombre.pdf)
 
 ## Instrucciones:
 
