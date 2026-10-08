@@ -19,7 +19,7 @@ características a su robot mientras respete el [reglamento](REGLAMENTO.md).
 Dejamos subidos diseños de robots creados por nosotros o por los participantes que quieran publicarlos. Cada uno contiene modelos 3D para su impresión, más un listado de componentes necesarios. En el caso de que lo requieran, estarán publicados otros archivos, tales como código, instrucciones de fabricación, manuales de uso, etc.  
 *Si queres aportar un diseño propio, lee nuestras reglas de contribucion*
 
-### 1° Primer Diseño: Licuacora
+### 1° Diseño: Licuadora
 **Dificultad**: ⭐  
 **Descripcion**: Cero inteligencia artificial, 100% de violencia plástica. Este diseño prescinde de microcontroladores para apostar por el caos puro. Al encenderlo, sus motores y su cuchilla vertical se activan al máximo, lanzándolo ciegamente hacia adelante. Un proyecto extremadamente sencillo de ensamblar en una tarde y muy divertido de ver en combate.  
 **link**: [Licuacora](https://github.com/Mini-Battle-Bots-ITBA/Battle-Bots-ITBA/tree/main/Licuadora)
