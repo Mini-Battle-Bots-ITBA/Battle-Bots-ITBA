@@ -1,4 +1,4 @@
-# NOMBRE DEL DISEÑO
+# LICUADORA
 ## Descripcion:
 
 ## Componentes:
