@@ -7,7 +7,8 @@
 - Conector de Bateria 9V
 - 3x Motor amarillo dc
 - 2x Ruedas
-- Switch / IR sensor + Control IR
+- Switch
+- IR sensor + Control IR (opcional)
 
 ## Conecciones
 [Link Esquematico](https://github.com/Mini-Battle-Bots-ITBA/Battle-Bots-ITBA/blob/main/Dise%C3%B1o%201/Esquematico%20Nombre.pdf)

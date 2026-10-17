@@ -1,6 +1,6 @@
 # Mini-BattleBots-ITBA
 
-Base de código y hardware para construir robots de batalla de hasta 150 g.
+Base de software y hardware para construir robots de batalla de hasta 500 gr.
 
 ## Sobre el proyecto
 
@@ -9,9 +9,9 @@ de combate estilo *BattleBots* para un torneo donde los participantes se enfrent
 entre sí hasta que quede un ganador.
 
 Este repositorio es una base para participar, pero cada equipo es libre de agregarle
-características a su robot mientras respete el [reglamento](REGLAMENTO.md).
+características a su robot mientras respete el [reglamento de diseño](REGLAMENTO.md).
 
-## Reglamento
+## Reglamento GENERAL
 
 [link al reglamento](REGLAMENTO.md)
 
