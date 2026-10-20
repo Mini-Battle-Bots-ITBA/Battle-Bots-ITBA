@@ -12,7 +12,7 @@ En este repositorio se encuentran los reglamentos de la competencia y algunos mo
 
 ## Reglamento GENERAL
 
-En el  [reglamento de combate](<Reglamento De Combate Mini BattleBots.pdf>) encontrarán detalles sobre como se desarrollará el evento y los combates.
+En el [reglamento de combate](<Reglamento De Combate Mini BattleBots.pdf>) encontrarán detalles sobre como se desarrollará el evento y los combates.
 
 ## Diseños de robots disponibles:
 Durante estas semanas dejaremos subidos diseños de robots creados por nosotros o por los participantes que quieran publicarlos. Cada uno contiene modelos 3D para su impresión, más un listado de componentes necesarios. En el caso de que lo requieran, estarán publicados otros archivos, tales como código, instrucciones de fabricación, manuales de uso, etc.  
