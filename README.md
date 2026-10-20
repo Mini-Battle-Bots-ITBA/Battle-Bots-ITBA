@@ -1,4 +1,4 @@
-# Mini-BattleBots-ITBA
+# Mini BattleBots ITBA
 
 Base de software y hardware para construir robots de batalla de hasta 500 gr.
 
